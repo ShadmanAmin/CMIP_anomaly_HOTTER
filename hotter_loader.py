@@ -47,7 +47,7 @@ print('location for HOTTER demo outputs')
 print(output_directory)
 import hotter_main
 import hotter_optimization
-
+from hotter_main import hotter_flux
 import helper_scripts
 
 #
